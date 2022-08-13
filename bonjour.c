@@ -8,12 +8,13 @@
 #******************************************************* */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 typedef char * str; // commodité
 
 int main(int argc, char const *argv[])
 {
-	printf("Bonjour et bienvenue dans ce programme inutile") ;
+	printf("Bonjour et bienvenue dans ce programme inutile\n") ;
+	printf("Hello, welcome to this pointless program\n") ;
+
 	return 0;
 }
