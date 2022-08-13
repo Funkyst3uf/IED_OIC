@@ -12,9 +12,8 @@
 typedef char * str; // commodité
 
 int main(int argc, char const *argv[])
-{
-	printf("Bonjour et bienvenue dans ce programme inutile\n") ;
+{	printf("Bonjour et bienvenue dans ce programme inutile\n") ;
 	printf("Hello, welcome to this pointless program\n") ;
-
-	return 0;
-}
+	printf("Hallo und willkommen in diesem nutzlosen Programm\n");
+	printf("Hola y bienvenido a este inútil programa\n");
+	return 0; }
