@@ -23,6 +23,8 @@ int main(int argc, char const *argv[])
 	{
 	case 1 :
 		printf("Bonjour et bienvenue dans ce programme inutile\n");
+		printf("Ici, nous développerons l'interface utilisateur en version française\n");
+		printf("Les autres versions (anglaise, allemande, ...) seront développées dans d'autres branches");
 		break;
 	case 2 :
 		printf("Hello, welcome to this pointless program\n") ;
